@@ -18,11 +18,15 @@ Allows input of Psi Intensity, Elemental Damage, Status Damage, Weapon Bonus, We
 
 2. Navigate to the project directory in your terminal or command prompt:
    ```bash
-   cd OnceHumanCalculator
+   cd .\OnceHumanCalculator\src\
 
-3. step 1=> run command to compile : javac OnceHumanCalculator.java
+3. step 1=> run command to compile :
+    ```bash
+    javac OnceHumanCalculator.java
 
-4. step 2 => runn command to start: java OnceHumanCalculator
+4. step 2 => runn command to start: 
+    ```bash
+    java OnceHumanCalculator
 
 ### Notes
 
